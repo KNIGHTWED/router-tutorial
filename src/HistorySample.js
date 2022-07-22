@@ -1,3 +1,6 @@
+// History가 안되는 이유
+// 업데이트 되면서 컴포넌트가 받는 props는 불가능
+// useHistory -> useNavigate
 import React, { Component } from 'react';
 
 class HistorySample extends Component {
