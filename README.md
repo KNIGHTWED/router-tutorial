@@ -34,6 +34,14 @@ Link 컴포넌트는 a태그를 사용하지만 페이지가 전환되지 않고
 
 /Profiles/:username 접속 안됨.
 
+'홈으로' '뒤로가기' 버튼 안나옴
+
+
 v6로 업데이트 되면서 바뀐 문법 설명
 
-참고: (https://velog.io/@soryeongk/ReactRouterDomV6)
+참고
+
+https://velog.io/@soryeongk/ReactRouterDomV6
+
+https://velog.io/@sham/react-router-dom-v6%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0
+
