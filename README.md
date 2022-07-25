@@ -3,6 +3,7 @@
 **react-router-dom v6 기준**
 
 Single Page Application
+
 한 개의 페이지로 이루어진 애플리케이션
 
 exact={true} == exact == path="/*"
