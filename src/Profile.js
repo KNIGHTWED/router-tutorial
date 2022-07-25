@@ -1,5 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
+import WithRouterSample from "./WithRouterSample";
 
 // 데이터 객체 생성
 const data = {
@@ -31,6 +32,7 @@ const Profile = () => {
         {params.username}({profile.name})
       </h3>
       <p>{profile.description}</p>
+      <WithRouterSample />
     </div>
   );
 };
