@@ -14,10 +14,6 @@ const data = {
   },
 };
 
-// 입력된 인자의 이름은 match로 사용
-// username은 match.params
-// profile은 data의 username
-// profile이 없다면 존재하지 않는 사용자 알림
 const Profile = () => {
   const params = useParams();
   const profile = data[params.username];
