@@ -150,23 +150,10 @@ return(
 )
 ```
 
-
 ---
-작동 안됨.
-
-/Profiles/:username 접속 안됨.
-
-'홈으로' '뒤로가기' 버튼 안나옴
-
-location, match 등등
-변경된점 많음.
-
-
-v6로 업데이트 되면서 바뀐 문법 설명
 
 참고
 
 https://velog.io/@soryeongk/ReactRouterDomV6
 
 https://velog.io/@sham/react-router-dom-v6%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0
-
